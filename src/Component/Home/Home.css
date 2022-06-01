@@ -1,0 +1,17 @@
+.main-div{
+    text-align: center;
+}
+.book-button{
+    align-items: center;
+    justify-content: center;
+    margin-left:923px ;
+    margin-top: 123px;
+}
+.input-apply {
+    width: 350px;
+    height: 48px;
+    border: 1px solid rgb(226, 238, 226);
+    outline: none;
+    margin-top: 20px;
+    padding: 20px;
+  }
